@@ -1,0 +1,16 @@
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\bin\Debug\net5.0\Oblig1.exe
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\bin\Debug\net5.0\Oblig1.deps.json
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\bin\Debug\net5.0\Oblig1.runtimeconfig.json
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\bin\Debug\net5.0\Oblig1.runtimeconfig.dev.json
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\bin\Debug\net5.0\Oblig1.dll
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\bin\Debug\net5.0\ref\Oblig1.dll
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\bin\Debug\net5.0\Oblig1.pdb
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\obj\Debug\net5.0\Oblig1.csprojAssemblyReference.cache
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\obj\Debug\net5.0\Oblig1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\obj\Debug\net5.0\Oblig1.AssemblyInfoInputs.cache
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\obj\Debug\net5.0\Oblig1.AssemblyInfo.cs
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\obj\Debug\net5.0\Oblig1.csproj.CoreCompileInputs.cache
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\obj\Debug\net5.0\Oblig1.dll
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\obj\Debug\net5.0\ref\Oblig1.dll
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\obj\Debug\net5.0\Oblig1.pdb
+C:\Users\sondr\OneDrive\Desktop\Skole\Get Academy\Modul 3\Oblig\Oblig1\obj\Debug\net5.0\Oblig1.genruntimeconfig.cache

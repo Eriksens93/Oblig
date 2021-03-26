@@ -1,0 +1,134 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Test\\Test.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Oblig1\\Oblig1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Oblig1\\Oblig1.csproj",
+        "projectName": "Oblig1",
+        "projectPath": "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Oblig1\\Oblig1.csproj",
+        "packagesPath": "C:\\Users\\sondr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Oblig1\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sondr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Test\\Test.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Test\\Test.csproj",
+        "projectName": "Test",
+        "projectPath": "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Test\\Test.csproj",
+        "packagesPath": "C:\\Users\\sondr\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Test\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\sondr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Oblig1\\Oblig1.csproj": {
+                "projectPath": "C:\\Users\\sondr\\OneDrive\\Desktop\\Skole\\Get Academy\\Modul 3\\Oblig\\Oblig1\\Oblig1.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.12.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.16.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
