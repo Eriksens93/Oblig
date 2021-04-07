@@ -23,7 +23,7 @@ namespace Test
 
             Assert.AreEqual(expectedDescription, actualDescription);
         }
-        [Test]
+        [Test] 
         public void TestNoFields()
         {
             var p = new Person

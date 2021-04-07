@@ -45,8 +45,8 @@ namespace Oblig1
             //output +=
             //    $"{FirstName} {LastName} (Id={Id}) Født: {BirthYear} Død: {DeathYear} Far: {Father.FirstName} (Id={Father.Id}) Mor: {Mother.FirstName} (Id={Mother.Id})";
 
-
-            return output; 
+            var text = output.Trim();
+            return text; 
            
         }
             

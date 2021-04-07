@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Oblig1
 {
-    class FamilyApp
+    public class FamilyApp
     {
         public List<Person> People;
 
@@ -33,12 +33,12 @@ vis<id> => viser en bestemt person med mor, far og barn(og id for disse, slik at
                 return ListeCommand(People);
             }
 
-            if (commands == "vis")
+            if (commands.Contains("vis "))
             {
-                return "true";
+                return VisPersonId(commands);
             }
 
-            return "FailCommando";
+            else return "FailCommando";
         }
 
         private static string ListeCommand(List<Person> People)
@@ -51,6 +51,51 @@ vis<id> => viser en bestemt person med mor, far og barn(og id for disse, slik at
             return tekst;
             
         }
+
+        public string VisPersonId(string commands)
+        {
+            var children = new List<Person>();
+            var tekst = "";
+            var søkeID = Int32.Parse(commands.Substring(4));
+
+            for (var i = 0; i< People.Count; i++)
+            {
+                if (People[i].Id == søkeID)
+                {
+                    tekst += People[i].GetDescription() + "\n";
+                }
+
+                if (People[i].Father != null )
+                {
+                    if (People[i].Father.Id == søkeID)
+                    {
+                        children.Add(People[i]);
+                    }
+                }
+
+                if (People[i].Mother != null)
+                {
+                    if (People[i].Mother.Id == søkeID)
+                    {
+                        children.Add(People[i]);
+                    }
+                }
+
+            }
+
+            if (children.Count != 0)
+            {
+                tekst += "  Barn:\n";
+                for (var i = 0; i < children.Count; i++)
+                {
+                    tekst += $"    {children[i].FirstName} (Id={children[i].Id}) Født: {children[i].BirthYear}\n";
+                }
+            }
+
+            return tekst;
+
+        }
+
     }
 }
  
