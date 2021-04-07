@@ -47,7 +47,7 @@ namespace Test
             };
 
             var actualDescription = p.GetDescription();
-            var expectedDescription = "Mons (Id=1) Født: 1337 ";
+            var expectedDescription = "Mons (Id=1) Født: 1337";
 
             Assert.AreEqual(expectedDescription, actualDescription);
         }
